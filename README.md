@@ -1,1 +1,1 @@
-# LM-32-2024-Progetto-Computer-Vision
+# LM-32-2025-Progetto-Computer-Vision
